@@ -1,0 +1,7 @@
+# Ignore NetBeans build files
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.lst
+*.jar
