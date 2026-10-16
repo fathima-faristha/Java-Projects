@@ -1,7 +1,12 @@
-# Ignore NetBeans build files
+# Java / NetBeans
 /build/
 /dist/
 /nbproject/private/
 *.class
 *.lst
 *.jar
+*.log
+
+# Windows junk - hide forever
+desktop.ini
+Thumbs.db
